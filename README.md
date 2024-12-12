@@ -55,6 +55,7 @@ source sms_env/bin/activate
 pip install -r requirements.txt
 ```
 
+
 4. Run the Django development server:
 
 ```bash
